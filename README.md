@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>    
 
  # About Me:
-🔭 I’m a Devloper,tech expert <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-                     ![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)>
-
+🔭 I’m a Devloper,tech expert <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
+ ![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)>
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_axat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatraj1) 
