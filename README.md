@@ -1,4 +1,4 @@
-# 💫Namaste Im Akshat #
+# 💫Namaste Im Akshat 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
