@@ -3,7 +3,7 @@
 
  # About Me:
 🔭 I’m a Devloper,tech expert <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
- ![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)>
+ <align="center">![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)>
  
 
 ## 🌐 Socials:
