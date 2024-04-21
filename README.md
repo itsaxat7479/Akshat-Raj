@@ -1,7 +1,8 @@
-# 💫                                   Namaste Im Akshat
-  
+# 💫           <h1 align="center"> Namaste 🙏, I'm Akshat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>    
+
  # About Me:
-🔭 I’m a Devloper,tech expert <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factf ![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)
+🔭 I’m a Devloper,tech expert <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factf <align="center"![](https://media.tenor.co/images/2e1c832ea674dbae061e92ebe2a874bc/raw)>
 
 
 ## 🌐 Socials:
@@ -77,8 +78,7 @@ download markdown
 download backup
 
 preview
-<h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaxat7479&label=Profile%20views&color=0e75b6&style=flat" alt="itsaxat7479" /> </p>
 
